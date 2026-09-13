@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/andyspyro/Cybersecurity-Portfolio">
-    <img src="https://raw.githubusercontent.com/andyspyro/andyspyro/main/assets/profile-banner-v5.svg" alt="Andy Stein cybersecurity and data analytics profile banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/andyspyro/andyspyro/main/assets/profile-banner-v6.svg" alt="Andy Stein cybersecurity and data analytics profile banner" width="100%" />
   </a>
 </p>
 
