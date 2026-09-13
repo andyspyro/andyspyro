@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Andy Stein cybersecurity and data analytics profile banner</title>
+  <desc id="desc">Animated terminal-style banner highlighting security engineering, application security, ethical hacking, and HR data analytics automation.</desc>
+
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="33%" stop-color="#3fb950"/>
+      <stop offset="66%" stop-color="#f778ba"/>
+      <stop offset="100%" stop-color="#f0883e"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="55%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#10151d"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="248" rx="18" fill="url(#panel)" stroke="#30363d" stroke-width="2"/>
+  <rect x="2" y="2" width="996" height="5" rx="3" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.72;1;0.72" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="28" cy="28" r="6" fill="#ff7b72"/>
+  <circle cx="48" cy="28" r="6" fill="#d29922"/>
+  <circle cx="68" cy="28" r="6" fill="#3fb950"/>
+
+  <text x="28" y="66" font-family="Consolas, Menlo, Monaco, monospace" font-size="16" fill="#8b949e">andyspyro@github:~$</text>
+  <text x="220" y="66" textLength="76" lengthAdjust="spacingAndGlyphs" font-family="Consolas, Menlo, Monaco, monospace" font-size="16" fill="#f0f6fc">./profile</text>
+
+  <rect x="302" y="51" width="8" height="19" rx="1" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Consolas, Menlo, Monaco, monospace" font-size="14.5" font-weight="700">
+    <text x="318" y="66" fill="#58a6ff" opacity="1">SECURITY ENGINEERING · THREAT MODELING
+      <animate attributeName="opacity" values="1;1;0;0;0;0;0;1" keyTimes="0;0.22;0.25;0.47;0.50;0.72;0.75;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+    <text x="318" y="66" fill="#3fb950" opacity="0">APPLICATION SECURITY · SECURE SDLC
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" keyTimes="0;0.22;0.25;0.47;0.50;0.72;0.75;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+    <text x="318" y="66" fill="#f778ba" opacity="0">ETHICAL HACKING · ENUMERATION + PRIVESC
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.22;0.25;0.47;0.50;0.72;0.75;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+    <text x="318" y="66" fill="#f0883e" opacity="0">HR DATA ANALYTICS · WORKFLOW AUTOMATION
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" keyTimes="0;0.22;0.25;0.47;0.50;0.72;0.75;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <text x="28" y="112" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#f0f6fc">Andy Stein</text>
+  <text x="28" y="143" font-family="Arial, sans-serif" font-size="18" fill="#a7b0bb">Cybersecurity M.S. Candidate | HR Data Analytics + Automation</text>
+
+  <circle cx="34" cy="190" r="5" fill="#3fb950">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="50" y="195" font-family="Consolas, Menlo, Monaco, monospace" font-size="14" fill="#8b949e">current:</text>
+  <text x="125" y="195" font-family="Consolas, Menlo, Monaco, monospace" font-size="14" fill="#d2a8ff">secure software + authorized offensive labs + embedded systems</text>
+
+  <text x="28" y="226" font-family="Consolas, Menlo, Monaco, monospace" font-size="13" fill="#6e7681">BUILD  |  SECURE  |  TEST  |  AUTOMATE  |  ANALYZE</text>
+
+  <rect x="-170" y="8" width="90" height="226" fill="#58a6ff" opacity="0.025" transform="skewX(-14)">
+    <animate attributeName="x" from="-170" to="1150" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
