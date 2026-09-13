@@ -27,6 +27,16 @@ A full stack study room application with authentication, RBAC, CSRF checks, rate
 
 My strongest completed penetration testing lab. In this authorized Hack The Box environment, I worked from source review and command injection through a service account, normal user access, and root.
 
+### [Embedded Systems & Hardware Build](https://github.com/andyspyro/Security-engineering-projects/tree/main/electrical-engineering-research-toolkit)
+`Microcontrollers` `Sensors` `Circuit Design` `UART / I²C / SPI` `ESP32 / Arduino / Raspberry Pi`
+
+A hands on embedded systems project where I built and wired the physical hardware, programmed the software and microcontrollers, integrated sensors, designed circuits and schematics, implemented device communication using UART, I²C, and SPI, and worked with ESP32, Arduino, and Raspberry Pi platforms.
+
+### [Nova Local Assistant](https://github.com/andyspyro/Security-engineering-projects/tree/main/nova-local-assistant)
+`Python` `Local AI` `Windows Automation` `System Diagnostics`
+
+A multi version Python assistant with local model integration, voice, system diagnostics, Windows automation, research workflows, memory experiments, and visual tooling.
+
 ### [HR Analytics and VBA Automation](https://github.com/andyspyro/Security-engineering-projects/tree/main/workforce-analytics-automation)
 `Power BI` `Excel` `VBA` `Reconciliation` `Reporting Automation`
 
@@ -36,16 +46,6 @@ Hiring and vacancy analytics, dashboard logic, cross system reconciliation, work
 `IriusRisk` `STRIDE` `Data Flow Diagrams` `Trust Boundaries` `Security Requirements`
 
 I modeled the supplied banking application in IriusRisk, mapped data flows and trust boundaries, reviewed generated threats, and translated the findings into security requirements and mitigations.
-
-### [Nova Local Assistant](https://github.com/andyspyro/Security-engineering-projects/tree/main/nova-local-assistant)
-`Python` `Local AI` `Windows Automation` `System Diagnostics`
-
-A multi version Python assistant with local model integration, voice, system diagnostics, Windows automation, research workflows, memory experiments, and visual tooling.
-
-### [Electrical Engineering & Hardware Build](https://github.com/andyspyro/Security-engineering-projects/tree/main/electrical-engineering-research-toolkit)
-`Hardware Build` `Wiring` `Lighting` `Body Design` `Embedded Systems Research`
-
-A hands on engineering project where I built and wired the physical hardware, set up the lighting, and designed the body. I also used Nova to support the research side of the project, including embedded systems, sensors, controllers, and technical documentation.
 
 ## More Projects
 
