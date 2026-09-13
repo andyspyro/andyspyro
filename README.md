@@ -4,13 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/andyspyro/Security-engineering-projects">Security Engineering</a> ·
-  <a href="https://github.com/andyspyro/Application-security-labs">Application Security</a> ·
-  <a href="https://github.com/andyspyro/Offensive-Security-labs">Offensive Security</a> ·
-  <a href="https://github.com/andyspyro/Security-engineering-projects/tree/main/workforce-analytics-automation">HR Data & VBA</a>
-</p>
-
 ## About
 
 I work in **HR data analytics and automation** while finishing a **master's degree in cybersecurity at North Carolina A&T State University**. I use GitHub to document the technical work I actually do: secure software, application security, Hack The Box labs, Python automation, SQL, VBA, Power BI, Android, databases, and security design.
