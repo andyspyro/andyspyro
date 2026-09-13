@@ -42,6 +42,11 @@ I modeled the supplied banking application in IriusRisk, mapped data flows and t
 
 A multi version Python assistant with local model integration, voice, system diagnostics, Windows automation, research workflows, memory experiments, and visual tooling.
 
+### [Electrical Engineering & Hardware Build](https://github.com/andyspyro/Security-engineering-projects/tree/main/electrical-engineering-research-toolkit)
+`Hardware Build` `Wiring` `Lighting` `Body Design` `Embedded Systems Research`
+
+A hands on engineering project where I built and wired the physical hardware, set up the lighting, and designed the body. I also used Nova to support the research side of the project, including embedded systems, sensors, controllers, and technical documentation.
+
 ## More Projects
 
 <details>
@@ -99,8 +104,8 @@ Kotlin and Jetpack Compose work. The retained Reply Time Tracker includes state,
 **[Dating Application Database Team Project](https://github.com/andyspyro/Security-engineering-projects/tree/main/dating-database-team-project)**  
 A three person class database project where I serve as the mock project manager while helping coordinate ER and EER design, normalization, SQL work, project phases, and the group submission.
 
-**[Electrical Engineering Research Toolkit](https://github.com/andyspyro/Security-engineering-projects/tree/main/electrical-engineering-research-toolkit)**  
-Engineering research tooling inside Nova for ESP32, GPIO, I2C, SPI, UART, MPU6050, Raspberry Pi, sensors, motors, and robotics research. This is software research tooling, not a hardware build.
+**[Electrical Engineering & Hardware Build](https://github.com/andyspyro/Security-engineering-projects/tree/main/electrical-engineering-research-toolkit)**  
+Built and wired the physical hardware, added the lighting, designed the body, and used Nova as a research tool for embedded systems, sensors, controllers, and technical documentation.
 
 </details>
 
