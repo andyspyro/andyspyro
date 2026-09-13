@@ -32,10 +32,10 @@ My strongest completed penetration testing lab. In this authorized Hack The Box 
 
 Hiring and vacancy analytics, dashboard logic, cross system reconciliation, workflow tracking, record archiving, data quality checks, and recurring audits.
 
-### [OWASP Juice Shop](https://github.com/andyspyro/Application-security-labs/tree/main/juice-shop)
-`AppSec` `TypeScript` `SQL Injection` `Semgrep` `SonarQube Cloud`
+### [Security Architecture & Threat Modeling | Online Banking](https://github.com/andyspyro/Security-engineering-projects/tree/main/online-banking-threat-model)
+`IriusRisk` `STRIDE` `Data Flow Diagrams` `Trust Boundaries` `Security Requirements`
 
-I tested SQL injection locally, reviewed the TypeScript query logic, replaced unsafe query construction with bound values, rebuilt the application, and retested it.
+I modeled the supplied banking application in IriusRisk, mapped data flows and trust boundaries, reviewed generated threats, and translated the findings into security requirements and mitigations.
 
 ### [Nova Local Assistant](https://github.com/andyspyro/Security-engineering-projects/tree/main/nova-local-assistant)
 `Python` `Local AI` `Windows Automation` `System Diagnostics`
@@ -49,9 +49,6 @@ A multi version Python assistant with local model integration, voice, system dia
 
 <br>
 
-**[Online Banking Security Architecture](https://github.com/andyspyro/Security-engineering-projects/tree/main/online-banking-threat-model)**  
-IriusRisk, data flow diagrams, trust boundaries, STRIDE, threat review, security requirements, and mitigation planning.
-
 **[Private Data Logging Security Review](https://github.com/andyspyro/Security-engineering-projects/tree/main/security-design-review)**  
 Architecture review focused on schema validation, sensitive access, centralized policy enforcement, and auditability.
 
@@ -60,6 +57,9 @@ Flawfinder analysis, 31 findings reviewed, CWE mapping, unsafe function review, 
 
 **[Secure Coding Mini App](https://github.com/andyspyro/Application-security-labs/tree/main/secure-coding-miniapp)**  
 Express and MySQL remediation work covering CSRF, SQL injection, XSS, session checks, and safer state changing routes.
+
+**[OWASP Juice Shop](https://github.com/andyspyro/Application-security-labs/tree/main/juice-shop)**  
+Semgrep, SonarQube Cloud, SQL injection testing, TypeScript source review, bound query remediation, rebuilding, and retesting.
 
 **[OWASP WebGoat](https://github.com/andyspyro/Application-security-labs/tree/main/webgoat)**  
 SQL injection, CSRF, request analysis, prepared statements, cookies, sessions, and safer request handling.
