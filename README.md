@@ -58,6 +58,9 @@ Modeled an online-banking application in IriusRisk, created **data-flow diagrams
 
 <br>
 
+**[Web Application Reverse Engineering with REA](https://github.com/andyspyro/Cybersecurity-Portfolio/tree/main/projects/rea-web-javascript-reverse-engineering)**  
+Used REA, PowerShell, and Chrome DevTools Protocol to enumerate browser targets and statically analyze JavaScript from a demonstration app and Wikipedia; documented 7 parsed scripts, 177,115 AST nodes, and evidence limitations without claiming an exploit.
+
 **[Private Data Logging Security Review](https://github.com/andyspyro/Security-engineering-projects/tree/main/security-design-review)**  
 Architecture review focused on schema validation, sensitive access, centralized policy enforcement, and auditability.
 
